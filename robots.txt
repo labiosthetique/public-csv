@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: /*.csv$
+
+Sitemap: https://labiosthetique.github.io/public-csv/sitemap.xml
+
